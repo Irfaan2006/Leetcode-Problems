@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
