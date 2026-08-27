@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -98,11 +99,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Divide and Conquer
 |  |
@@ -144,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
