@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0686-repeated-string-match](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0796-rotate-string) |
+| [1044-longest-duplicate-substring](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 ## Trie
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0686-repeated-string-match](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0686-repeated-string-match) |
+| [1044-longest-duplicate-substring](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
@@ -70,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0686-repeated-string-match](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0686-repeated-string-match) |
+| [1044-longest-duplicate-substring](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1044-longest-duplicate-substring) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [1044-longest-duplicate-substring](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1044-longest-duplicate-substring) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,16 +144,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
+| [1044-longest-duplicate-substring](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
+| [1044-longest-duplicate-substring](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1392-longest-happy-prefix) |
 ## Sliding Window
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
+| [1044-longest-duplicate-substring](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1044-longest-duplicate-substring) |
 ## Memoization
 |  |
 | ------- |
@@ -162,4 +169,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0258-add-digits) |
+## Suffix Array
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1044-longest-duplicate-substring) |
+## Suffix Automaton
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1044-longest-duplicate-substring) |
+## Suffix Tree
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1044-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
