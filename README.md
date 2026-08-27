@@ -90,10 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0136-single-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Linked List
 |  |
 | ------- |
