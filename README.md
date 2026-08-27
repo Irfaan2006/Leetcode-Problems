@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0686-repeated-string-match](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0686-repeated-string-match](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0686-repeated-string-match](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0686-repeated-string-match) |
 ## Binary Search
 |  |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0041-first-missing-positive) |
+| [0187-repeated-dna-sequences](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Linked List
 |  |
@@ -124,9 +129,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [1392-longest-happy-prefix](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [1392-longest-happy-prefix](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1392-longest-happy-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
