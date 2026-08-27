@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0258-add-digits](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
@@ -153,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
