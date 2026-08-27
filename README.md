@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0148-sort-list) |
+| [0344-reverse-string](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
+| [0344-reverse-string](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0686-repeated-string-match](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1392-longest-happy-prefix) |
