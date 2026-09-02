@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0051-n-queens) |
+| [0113-path-sum-ii](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0113-path-sum-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
