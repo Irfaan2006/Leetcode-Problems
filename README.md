@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1408-string-matching-in-an-array](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 ## Two Pointers
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0875-koko-eating-bananas](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1044-longest-duplicate-substring](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1044-longest-duplicate-substring) |
 ## Hash Table
 |  |
