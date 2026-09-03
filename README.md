@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [1408-string-matching-in-an-array](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0187-repeated-dna-sequences](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
+| [0347-top-k-frequent-elements](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,12 +141,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -264,4 +268,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0155-min-stack) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
