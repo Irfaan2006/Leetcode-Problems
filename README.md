@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1408-string-matching-in-an-array](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Two Pointers
 |  |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0695-max-area-of-island) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
@@ -335,8 +337,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
