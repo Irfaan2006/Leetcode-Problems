@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
+| [0622-design-circular-queue](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0622-design-circular-queue) |
 | [0695-max-area-of-island](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0147-insertion-sort-list](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0148-sort-list) |
+| [0622-design-circular-queue](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0622-design-circular-queue) |
 ## Merge Sort
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0622-design-circular-queue) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -358,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
