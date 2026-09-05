@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0622-design-circular-queue) |
 | [0695-max-area-of-island](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1408-string-matching-in-an-array](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0778-swim-in-rising-water](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1044-longest-duplicate-substring](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1044-longest-duplicate-substring) |
 | [1631-path-with-minimum-effort](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0778-swim-in-rising-water](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
@@ -319,22 +323,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0695-max-area-of-island](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
@@ -365,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0622-design-circular-queue) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
