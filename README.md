@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0326-power-of-three) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
