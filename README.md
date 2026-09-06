@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0686-repeated-string-match](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [1044-longest-duplicate-substring](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1044-longest-duplicate-substring) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Recursion
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
