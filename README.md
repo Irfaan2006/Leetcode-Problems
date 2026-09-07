@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0686-repeated-string-match](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0686-repeated-string-match) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0187-repeated-dna-sequences](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
