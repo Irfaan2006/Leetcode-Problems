@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0278-first-bad-version](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0278-first-bad-version) |
 | [0778-swim-in-rising-water](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1044-longest-duplicate-substring](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1044-longest-duplicate-substring) |
@@ -390,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
