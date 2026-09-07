@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0622-design-circular-queue) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0778-swim-in-rising-water](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1044-longest-duplicate-substring](https://github.com/Irfaan2006/Leetcode-Problems/tree/master/1044-longest-duplicate-substring) |
